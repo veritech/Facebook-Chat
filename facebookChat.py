@@ -300,7 +300,7 @@ def main():
 	
 	if doLogin == 'y':	
 		#Login into facebook
-		fb.login('veritech19@gmail.com','robotech')
+		fb.login( 'USERNAME','PASSWORD')
 	
 	#Get the buddy list
 	fb.getBuddyList()
