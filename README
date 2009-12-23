@@ -1,0 +1,11 @@
+This project was an attempt to use Facebook chat, via a mobile web client hosted on Google's App Engine.
+
+At the time of creation(mid 2008) there was no mobile support for Facebook chat.
+
+While the project isn't complete it does enable the user to login into the system and assess which users are online.
+
+It was mostly a research project and so most the code needs refactoring before being considered for any type of use :)
+
+Jonathan Dalrymple
+jonathan@float-right.co.uk
+

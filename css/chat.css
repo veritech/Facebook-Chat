@@ -1,0 +1,10 @@
+/*
+	
+*/
+#chatConversation{
+	width:98%;
+	max-width: 480px;
+}
+input#message{
+	width:98%;
+}
